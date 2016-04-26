@@ -53,7 +53,7 @@ public class FRM_Automoviles extends javax.swing.JFrame {
     public void deshabilitarBuscar(){
         this.gUI_Botones1.deshabilitarBuscar();
     }
-    
+        
     public void habilitarBuscar(){
         this.gUI_Botones1.habilitarBuscar();
     }
